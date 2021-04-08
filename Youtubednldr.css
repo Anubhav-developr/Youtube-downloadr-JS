@@ -1,0 +1,31 @@
+html {
+    background-color: aqua;
+}
+
+#l1 {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: brown;
+}
+
+#l2{
+    text-align: center;
+    color: brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+input {
+    border: 5px solid yellow ;
+    height: 21px;
+    margin-left: 584px;
+}
+
+.d {
+    text-align: center;
+    
+}
+
+#m {
+    color: crimson;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
