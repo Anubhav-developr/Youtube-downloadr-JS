@@ -1,0 +1,25 @@
+{
+  "name": "Youtube-downloadr-JS",
+  "version": "1.0.0",
+  "description": "[open](https://anubhav-developr.github.io/Youtube-downloadr-JS/)",
+  "main": "Youtubednldr.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anubhav-developr/Youtube-downloadr-JS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anubhav-developr/Youtube-downloadr-JS/issues"
+  },
+  "homepage": "https://github.com/Anubhav-developr/Youtube-downloadr-JS#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "ytdl-core": "^4.7.0"
+  }
+}
